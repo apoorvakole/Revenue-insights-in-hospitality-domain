@@ -10,7 +10,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 *It consists of -* 
       Calculated metrics such as total revenue , ADR, RevPAR, total bookings, average rating, total capacity, total successful bookings,occupancy % cancellation rate. Revenue contributions as per city, property name, room class,etc. Bookings overview, filters, KPIs .
 
-*Key learnings- *
+*Key learnings-*
        First and foremost skill I developed is Storytelling with data provided.
        Understanding stakeholder needs.
        KPIs for hospitality domain.
