@@ -11,11 +11,11 @@ Their revenue management team had decided to hire a 3rd party service provider t
       Calculated metrics such as total revenue , ADR, RevPAR, total bookings, average rating, total capacity, total successful bookings,occupancy % cancellation rate. Revenue contributions as per city, property name, room class,etc. Bookings overview, filters, KPIs .
 
 **Key learnings**-
-       -First and foremost skill I developed is Storytelling with data provided.
-       -Understanding stakeholder needs.
-       -KPIs for hospitality domain.
-       -Using monotonic colour pallete for effective dashboard.
-       -Data modelling.
+       1. First and foremost skill I developed is Storytelling with data provided.
+       2. Understanding stakeholder needs.
+       3. KPIs for hospitality domain.
+       4. Using monotonic colour pallete for effective dashboard.
+       5. Data modelling.
        
 Hope this repo will help you to assess my data analytics and SQL skills or will be just fun for you to look through.
 
